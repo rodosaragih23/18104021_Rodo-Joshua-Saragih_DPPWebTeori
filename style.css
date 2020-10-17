@@ -1,0 +1,27 @@
+html, body {
+    font-family:  'Times New Roman', Times, serif,Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.answer {
+    background-color:#8FBC8F;
+    padding: 20px;
+    margin: 10px;
+}
+
+.wrapper-question {
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.wrapper-answer {
+    padding: 20px;
+    border: 1px solid #212121;
+}
+
+.text-red {
+    color: red;
+}
